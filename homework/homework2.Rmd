@@ -1,0 +1,24 @@
+---
+title: "exercise"
+author: "a104260048"
+date: "2018/10/5"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+
+my_weight
+my_height <- ___
+my_weight <- ___
+
+170
+55
+
+bmi <- (___) / (___ / 100)^2
+bmi
+
+my_name <- "___"
+my_name
