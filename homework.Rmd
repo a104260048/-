@@ -10,12 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ### Notes on the YAML header
- ¡E Be sure to change the title and author fields
+  -Be sure to change the title and author fields
   
- ¡E  The date is automatically set to the current day when knitting
+  -The date is automatically set to the current day when knitting
   
- ¡E  The header-includes portion loads a personal sheet of LaTeX macros. I recommend making one of these as well as it can    greatly speed up the time to input math. See my personal macro file hayesmacros.sty as a starting point. If you aren't   going to load a \LaTeX macro file, remove those lines.
-    ¡Chayesmacros.sty needs to be in the same folder as this file
+  -The header-includes portion loads a personal sheet of LaTeX macros. I recommend making one of these as well as it can    greatly speed up the time to input math. See my personal macro file hayesmacros.sty as a starting point. If you aren't   going to load a \LaTeX macro file, remove those lines.
+    Â¡Chayesmacros.sty needs to be in the same folder as this file
 
 #Problem 1
 Here is a [link](https://adv-r.hadley.nz/). Your homework goes here.
